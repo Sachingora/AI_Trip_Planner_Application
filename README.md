@@ -9,7 +9,8 @@ Technical Details:
 Backend: Java, Spring Boot
 Frameworks & Dependencies: Spring Web, OpenAI API
 Output Format: JSON
-Features:
+
+**Features:**
 ✅ Custom trip planning with stay, sightseeing, and activities
 ✅ Budget estimation for accommodations, food, and transportation
 ✅ AI-powered recommendations for hotels, attractions, and experiences
