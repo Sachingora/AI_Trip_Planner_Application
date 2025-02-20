@@ -6,9 +6,9 @@ AI Trip Planner is a smart travel assistant that provides a comprehensive roadma
 
 **Technical Details:**
 
-**Backend: ** Java, Spring Boot
+**Backend:** Java, Spring Boot
 
-**Frameworks & Dependencies: ** Spring Web, OpenAI API
+**Frameworks & Dependencies:** Spring Web, OpenAI API
 
 **Output Format:** JSON
 
